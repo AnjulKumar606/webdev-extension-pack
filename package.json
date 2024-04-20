@@ -31,6 +31,7 @@
     "ms-vscode-remote.remote-containers", 
     "ms-vscode-remote.remote-wsl", 
     "ms-vscode.makefile-tools", 
+    "usernamehw.errorlens",
     "naumovs.color-highlight", 
     "oderwat.indent-rainbow", 
     "postman.postman-for-vscode", 
