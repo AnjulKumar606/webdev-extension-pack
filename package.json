@@ -2,6 +2,7 @@
   "name": "webdev-extension-pack",
   "displayName": "webDev extension pack",
   "description": "extension pack for MERN stack  web developers",
+  "publisher": "Anjul Kumar",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
