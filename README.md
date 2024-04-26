@@ -56,6 +56,7 @@ This extension pack equips developers with tools for:
 - **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)**: Supercharges the Git capabilities built into Visual Studio Code, allowing you to visualize code authorship at a glance.
 - **[Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode)**: Enhances productivity with AI-assisted IntelliSense.
 - **[SCM Buttons](https://marketplace.visualstudio.com/items?itemName=tomblind.scm-buttons-vscode)**: Adds additional source control management buttons to VS Code, enhancing usability and access to common Git operations.
+- **[Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)** helps developers to view git log, file or line History. This extension adds a powerful tool to your VS Code setup, allowing you to explore the history of commits, branches, files, and even authors in a rich graphical interface.
 
 ### Docker and Remote Development
 
@@ -86,6 +87,7 @@ This extension pack equips developers with tools for:
 - **[Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)**: Displays the size of the imported package, helping to understand and manage bundle sizes.
 - **[File Size Viewer](https://marketplace.visualstudio.com/items?itemName=zh9528.file-size)**: Displays the file size in the status bar, useful for keeping track of file size without leaving the editor.
 - **[Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)** By coloring indents, it helps developers quickly navigate complex blocks of code and enhances overall code readability.
+- **[Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)** allows Visual Studio Code users to change the color of their workspace. Ideal for developers who work with multiple VS Code instances.
 
 
 ### Component and UI Development

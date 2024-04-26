@@ -67,6 +67,8 @@
     "wix.vscode-import-cost", 
     "yzhang.markdown-all-in-one", 
     "zh9528.file-size", 
-    "zignd.html-css-class-completion"
+    "zignd.html-css-class-completion",
+    "johnpapa.vscode-peacock",
+    "donjayamanne.githistory"
   ]
 }
